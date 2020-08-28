@@ -44,6 +44,7 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
+        icon: Picture12
         url: '#'
       - title: Project 2
         text: This is a very short project description.
