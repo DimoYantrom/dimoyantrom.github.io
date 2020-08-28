@@ -33,6 +33,27 @@ sections:
         icon: fa-heart
         url: sport-structures
 
+- type: services1.html
+    section_id: services
+    title: At Your Service
+    services:
+      - title: 2Sport and Adventure Facilities Structural Design
+        icon: fa-paper-plane
+        text: Climbing walls, zip-lines, rope courses...
+        url: sport-structures
+      - title: Industrial Structures Design
+        text: You can use this theme as is, or you can make changes!
+        icon: fa-paper-plane
+        url: industrial-structures
+      - title: 
+        text: We update dependencies to keep things fresh.
+        icon: fa-laptop-code
+        url: links
+      - title: Sport Structures
+        text: Some not-so long text here.
+        icon: fa-heart
+        url: sport-structures
+
   - type: portfolio.html
     projects:
       - title: RockIZ climbing wall
