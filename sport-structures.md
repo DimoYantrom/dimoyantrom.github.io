@@ -12,7 +12,7 @@ menus:
 sections:
   - type: paragraph.html
     section_id: more-to-come
-    title: Sport Structures
+    title: Portland College Tower
   #  background_style: bg-info
   #  text_style: text-left text-white
     actions:
