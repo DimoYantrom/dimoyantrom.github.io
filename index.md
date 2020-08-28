@@ -17,9 +17,10 @@ sections:
     title: At Your Service
     services:
       - title: Sport and Adventure Facilities Structural Design
+        icon: fa-paper-plane
         text: Climbing walls, zip-lines, rope courses...
         url: sport-structures
-      - title: Industrial Structures
+      - title: Industrial Structures Design
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
         url: industrial-structures
