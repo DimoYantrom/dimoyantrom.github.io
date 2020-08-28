@@ -1,10 +1,10 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Structural Engineers
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Yantrom strives to be the engineering link of Your projects, 
+    we rather be an extension of your team, then just an engineering consultant. 
   action: # action button is optional
     label: Find Out More
     url: '#services'
