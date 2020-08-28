@@ -24,8 +24,8 @@ sections:
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
         url: industrial-structures
-      - title: 
-        text: We update dependencies to keep things fresh.
+      - title: BIM modeling of steel structures
+        text: Prepare accurate 3D models for the complete structure, detailed drawings and quantities. 
         icon: fa-laptop-code
         url: links
       - title: Sport Structures
