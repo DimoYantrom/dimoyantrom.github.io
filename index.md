@@ -75,7 +75,7 @@ sections:
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
-- title: Project 6
+      - title: Project 7
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
