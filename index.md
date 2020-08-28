@@ -64,9 +64,12 @@ sections:
           Mezzanine and Ninja course arena.
         icon: thumb4.jpg
         url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
+      - title: Ferrari Zip Lines
+        text: >
+          Abu Dhabi, Ferrari park:
+          Two 200m courses of parallel zip lines running through 
+          the roller coaster frame, simulating proximity flying. 
+        icon: thumb5.jpg
         url: '#'
       - title: Project 6
         text: This is a very short project description.
