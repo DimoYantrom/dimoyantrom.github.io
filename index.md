@@ -52,14 +52,16 @@ sections:
           accessible by 25m long footbridge.
         icon: thumb02.jpg
         url: '#'
-      - title: Project 3
+      - title: Norfolk Ropes Course
         text: >
           Norfolk, UK:
           Mains steel frame with 36 courses in two levels.
         icon: thumb3.jpg
         url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+      - title: Oberkirch Arena
+        text: >
+          Oberkirch, Swiss Confederation:
+          Mezzanine and Ninja course arena.
         icon: 4.jpg
         url: '#'
       - title: Project 5
