@@ -16,16 +16,17 @@ sections:
     section_id: services
     title: At Your Service
     services:
-      - title: Sport and Adventure facilities Structural Design
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: links
-      - title: Consultancy
+      - title: Sport and Adventure Facilities Structural Design
+        text: Climbing walls, zip-lines, rope courses...
+        url: sport-structures
+      - title: Industrial Structures
         text: You can use this theme as is, or you can make changes!
         icon: fa-paper-plane
-      - title: BIM Modeling
+        url: industrial-structures
+      - title: 
         text: We update dependencies to keep things fresh.
         icon: fa-laptop-code
+        url: links
       - title: Sport Structures
         text: Some not-so long text here.
         icon: fa-heart
