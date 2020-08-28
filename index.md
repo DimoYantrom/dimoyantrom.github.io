@@ -40,7 +40,7 @@ sections:
           Tel Aviv, Israel:
           Climbing wall and rope course construction, enriched with canopy roof
           and balcony area.
-                # the images are located in:
+        # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
@@ -50,10 +50,7 @@ sections:
           Portland, UK:
           Climbing tower and zip line for differently abled users, 
           accessible by 25m long footbridge.
-              # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 3.jpg
+         icon: 2.jpg
         url: '#'
       - title: Project 3
         text: This is a very short project description.
