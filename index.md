@@ -71,11 +71,11 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Dimo Zhelev
+      - title: Dimo Zhelev, Dr. Eng.
         text: Lead Structural Engineer, Managing Partner
         image: assets/img/members/dimo.jpg
         url: https://www.linkedin.com/in/dimo-zhelev-41723a1b2/
-      - title: Milen Balabanov
+      - title: Milen Balabanov, Eng.
         text: General Manager
         image: assets/img/members/person2.jpg
         url: https://www.linkedin.com/in/milen-balabanov-03166916/
