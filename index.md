@@ -50,10 +50,12 @@ sections:
           Portland, UK:
           Climbing tower and zip line for differently abled users, 
           accessible by 25m long footbridge.
-        icon: thumb.jpg
+        icon: thumb2.jpg
         url: '#'
       - title: Project 3
-        text: This is a very short project description.
+        text: >
+          Norfolk, UK:
+          Mains steel frame with 36 courses in two levels.
         icon: thumb3.jpg
         url: '#'
       - title: Project 4
