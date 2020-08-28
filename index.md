@@ -62,7 +62,7 @@ sections:
         text: >
           Oberkirch, Swiss Confederation:
           Mezzanine and Ninja course arena.
-        icon: 4.jpg
+        icon: thumb4.jpg
         url: '#'
       - title: Project 5
         text: This is a very short project description.
