@@ -50,7 +50,7 @@ sections:
           Portland, UK:
           Climbing tower and zip line for differently abled users, 
           accessible by 25m long footbridge.
-        icon: 2.jpg
+        icon: thumb2.jpg
         url: '#'
       - title: Project 3
         text: This is a very short project description.
