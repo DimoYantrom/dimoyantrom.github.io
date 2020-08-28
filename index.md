@@ -15,9 +15,13 @@ sections:
   - type: services.html
     section_id: services
     title: At Your Service
+    For 10 years plus, providing highest quality services, going beyond expectations, we are passionate about every project we do.
+Our expertise is as follows:
+Structure design, corresponding to Eurocode, ASCE;
+BIM modeling of Steel and RC structures
     services:
       - title: Sport and Adventure Facilities Structural Design
-        icon: fa-paper-plane
+        icon: 1
         text: Climbing walls, zip-lines, rope courses...
         url: sport-structures
       - title: Industrial Structures Design
