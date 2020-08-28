@@ -21,7 +21,7 @@ Structure design, corresponding to Eurocode, ASCE;
 BIM modeling of Steel and RC structures
     services:
       - title: Sport and Adventure Facilities Structural Design
-        icon: 1
+        icon: fa-paper-plane
         text: Climbing walls, zip-lines, rope courses...
         url: sport-structures
       - title: Industrial Structures Design
