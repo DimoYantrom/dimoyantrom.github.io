@@ -46,7 +46,7 @@ sections:
         icon: 1.jpg
         url: '#'
       - title: Portland College Tower
-      text: >
+        text: >
           Portland, UK:
           Climbing tower and zip line for differently abled users, 
           accessible by 25m long footbridge.
