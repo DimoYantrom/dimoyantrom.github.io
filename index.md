@@ -75,7 +75,11 @@ sections:
         text: This is a very short project description.
         icon: 6.jpg
         url: '#'
-
+- title: Project 6
+        text: This is a very short project description.
+        icon: 6.jpg
+        url: '#'
+        
   - type: members.html
     section_id: members
     title: Our Crew!
