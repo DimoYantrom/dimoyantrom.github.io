@@ -16,7 +16,7 @@ sections:
     section_id: services
     title: At Your Service
     services:
-      - title: Structural Design
+      - title: Sport and Adventure facilities Structural Design
         text: Our templates are updated regularly so they don't break.
         icon: fa-gem text-info
         url: links
@@ -38,9 +38,7 @@ sections:
           Tel Aviv, Israel:
           Climbing wall and rope course construction, enriched with canopy roof
           and balcony area.
-          1100 sq.m. of climbing surface, 450 sq.m. of roof, 130 sq.m
-          mezzanine area.
-        # the images are located in:
+                # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
