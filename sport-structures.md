@@ -11,6 +11,7 @@ menus:
 
 sections:
 
+
   - type: portfolio.html
     projects:
       - title: RockIZ climbing wall
@@ -18,9 +19,7 @@ sections:
           Tel Aviv, Israel:
           Climbing wall and rope course construction, enriched with canopy roof
           and balcony area.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
+  
         
         url: '#'
 ---
