@@ -9,11 +9,5 @@ menus:
     title: Sport and Adventure Facilities
     weight: 2
 
-- type: paragraph.html
-  section_id: more-to-come
-  title: No HTML!
-   - title: Markdown is fun!
-     class: btn-info
-     url: '#'
 
 ---
