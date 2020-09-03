@@ -21,5 +21,6 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-          url: '#'
+        
+        url: '#'
 ---
