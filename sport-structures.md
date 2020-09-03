@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: sport-structures
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/portland_background.jpg')
 # Add a link to the the top menu
@@ -29,7 +29,6 @@ sections:
      class: btn-info
      url: '#'
   text: >+
-    ### Typographic replacements
-
+ 
 
 ---
