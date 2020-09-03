@@ -17,7 +17,6 @@ menus:
   actions:
    - title: Markdown is fun!
      class: btn-info
-     icon: 1.jpg
      url: '#'
   text: >+
 
