@@ -29,7 +29,7 @@ sections:
         icon: fa-laptop-code
         url: links
       - title: Finite Element Analysis of Engineering Structurs
-        text: Linear and nonlinear analysis of steel structures, reinforced concrete structures, wire ropes
+        text: Linear and nonlinear analysis of steel structures, reinforced concrete, thin shells & wire ropes.
         icon: fa-heart
         url: FEA
 
