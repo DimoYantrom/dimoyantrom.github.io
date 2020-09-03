@@ -8,20 +8,13 @@ menus:
   header:
     title: Sport
     weight: 2
-
-sections:
-
+    
   - type: paragraph.html
     section_id: more-to-come
-      #  background_style: bg-info
-  #  text_style: text-left text-white
    - title: RockIZ climbing wall
         text: >
           Tel Aviv, Israel:
           Climbing wall and rope course construction, enriched with canopy roof
           and balcony area.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
+          icon: 1.jpg
         url: '#'
