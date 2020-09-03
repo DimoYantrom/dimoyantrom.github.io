@@ -21,14 +21,14 @@ sections:
         text: Climbing walls, zip-lines, rope courses...
         url: sport-structures
       - title: Industrial Structures Design
-        text: You can use this theme as is, or you can make changes!
+        text: Single and multistory industrial buildings, Bag Houses, Silos, Chutes 
         icon: fa-paper-plane
         url: industrial-structures
       - title: BIM modeling of steel structures
         text: Prepare accurate 3D models for the complete structure, detailed drawings and quantities. 
         icon: fa-laptop-code
         url: links
-      - title: Finite Element Analysis of Engineering Structurs
+      - title: Finite Element Analysis of Engineering Structures
         text: Linear and nonlinear analysis of steel, reinforced concrete, thin shells & wire ropes.
         icon: fa-heart
         url: FEA
