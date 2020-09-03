@@ -10,6 +10,7 @@ menus:
     weight: 2
 
 sections:
+
   - type: paragraph.html
     section_id: more-to-come
       #  background_style: bg-info
@@ -22,4 +23,5 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-     
+        icon: 1.jpg
+        url: '#'
