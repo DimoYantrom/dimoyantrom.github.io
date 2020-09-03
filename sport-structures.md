@@ -23,31 +23,6 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
-      - title: Portland College Tower
-        text: >
-          Portland, UK:
-          Climbing tower and zip line for differently abled users, 
-          accessible by 25m long footbridge.
-        icon: thumb02.jpg
-        url: '#'
-      - title: Norfolk Ropes Course
-        text: >
-          Norfolk, UK:
-          Mains steel frame with 36 courses in two levels.
-        icon: thumb3.jpg
-        url: '#'
-      - title: Oberkirch Arena
-        text: >
-          Oberkirch, Swiss Confederation:
-          Mezzanine and Ninja course arena.
-        icon: thumb4.jpg
-        url: '#'
-      - title: Ferrari Zip Lines
-        text: >
-          Abu Dhabi, Ferrari park:
-          Two 200m courses of parallel zip lines running through 
-          the roller coaster frame, simulating proximity flying. 
-        icon: thumb5.jpg
-        url: '#'
+   
+     
 ---
