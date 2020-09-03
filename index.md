@@ -105,7 +105,7 @@ sections:
     actions:
     - title: +359 (89) 91 276 41
       icon: fa-phone
-    - title: E-Mail
+    - title: office@yantrom.com
       icon: fa-envelope
       url: mailto:office@yantrom.com
 #    - title: Twitter
