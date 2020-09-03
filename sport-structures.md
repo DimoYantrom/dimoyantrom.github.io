@@ -6,7 +6,7 @@ background_image: url('assets/img/backgrounds/portland_background.jpg')
 # Add a link to the the top menu
 menus:
   header:
-    title: Links
+    title: Sport and Adventure Facilities
     weight: 2
 
 sections:
