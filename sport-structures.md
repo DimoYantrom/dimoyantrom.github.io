@@ -15,24 +15,5 @@ sections:
     title: Portland College Tower
   #  background_style: bg-info
   #  text_style: text-left text-white
-    actions:
-     - title: Markdown is fun!
-       class: btn-info
-       url: '#'
-    text: >+
-      ### Some title here
-
-      Enable typographer option to see result.
-
-      (c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-      test.. test... test..... test?..... test!....
-
-      !!!!!! ???? ,,  -- ---
-
-      "Smartypants, double quotes" and 'single quotes'
-
-
-      ### Emphasis
 
 ---
