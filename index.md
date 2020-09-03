@@ -28,10 +28,10 @@ sections:
         text: Prepare accurate 3D models for the complete structure, detailed drawings and quantities. 
         icon: fa-laptop-code
         url: links
-      - title: Sport Structures
-        text: Some not-so long text here.
+      - title: Finite Element Analysis of Engineering Structurs
+        text: Linear and nonlinear analysis of steel structures, reinforced concrete structures, wire ropes
         icon: fa-heart
-        url: sport-structures
+        url: FEA
 
   - type: portfolio.html
     projects:
