@@ -27,7 +27,7 @@ sections:
       - title: BIM modeling of steel structures
         text: Prepare accurate 3D models for the complete structure, detailed drawings and quantities. 
         icon: fa-laptop-code
-        url: sport-structures
+        url: #
       - title: Finite Element Analysis of Engineering Structures
         text: Linear and nonlinear analysis of steel, reinforced concrete, thin shells & wire ropes.
         icon: fa-heart
