@@ -10,12 +10,11 @@ menus:
     weight: 2
 
 - type: paragraph.html
-    projects:
       - title: RockIZ climbing wall
         text: >
           Tel Aviv, Israel:
           Climbing wall and rope course construction, enriched with canopy roof
           and balcony area.
      url: '#'
-  text: >+
+
 ---
