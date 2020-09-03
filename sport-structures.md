@@ -9,7 +9,6 @@ menus:
     title: Sport and Adventure Facilities
     weight: 2
 
- - type: portfolio.html
     projects:
       - title: RockIZ climbing wall
         text: >
