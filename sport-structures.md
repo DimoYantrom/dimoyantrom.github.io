@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sport-structures
+title: Sport and Adventure Facilities
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/portland_background.jpg')
 # Add a link to the the top menu
