@@ -30,7 +30,7 @@ sections:
         url: #
       - title: Finite Element Analysis of Engineering Structures
         text: Linear and nonlinear analysis of steel, reinforced concrete, thin shells & wire ropes.
-        icon: fa-heart
+        icon: fa-paper-plane
         url: sport-structures
 
   - type: portfolio.html
