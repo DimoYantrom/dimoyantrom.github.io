@@ -43,7 +43,7 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: RockIZ climbing wall.jpg
         url: '#'
       - title: Portland College Tower
         text: >
