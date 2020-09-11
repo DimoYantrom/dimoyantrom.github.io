@@ -3,7 +3,7 @@ layout: home
 header:
   title: Structural Engineers
   text: >
-    Yantrom llllllll strives to be the engineering link of Your projects, 
+    Yantrom strives to be the engineering link of Your projects, 
     we rather be an extension of your team, then just an engineering consultant. 
   action: # action button is optional
     label: Find Out More
